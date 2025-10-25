@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  • Learning and transitioning to <strong>100% hand-written code</strong> 💪<br>
+  • Learning and transitioning to <strong>hand-written code</strong> 💪<br>
   • Building amazing things for the <strong>web</strong> 🌐 and <strong>mobile</strong> 📱<br>
   • Always eager to learn something new 🚀
 </p>
