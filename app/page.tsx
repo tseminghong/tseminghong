@@ -78,7 +78,7 @@ export default async function Home() {
         {/* Footer */}
         <footer className="mt-20 text-center text-slate-600 dark:text-slate-400 border-t border-slate-300/20 dark:border-slate-700/20 pt-8">
           <p className="mb-2">
-            Built with <span className="text-red-500">❤️</span> using Next.js, Tailwind CSS & GitHub API
+            Built with <span className="text-red-500">❤️</span> using Next.js
           </p>
           <p className="text-sm">
             <a
