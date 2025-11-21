@@ -32,6 +32,11 @@ body {
   font-family: 'Space Mono', monospace, Arial, Helvetica, sans-serif;
 }
 
+/* Triangle clip path for decorative corners */
+.clip-path-triangle {
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+
 /* Blob animation */
 @keyframes blob {
   0%, 100% {
