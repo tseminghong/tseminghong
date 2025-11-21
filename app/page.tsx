@@ -1,5 +1,6 @@
 import { getRepositories, getRecentCommits, getPullRequests } from '@/lib/github';
 import { PROFILE_INFO } from '@/config/github';
+import Image from 'next/image';
 
 export default async function Home() {
   const [repositories, commits, pullRequests] = await Promise.all([
@@ -52,9 +53,11 @@ export default async function Home() {
           {/* Profile Pic with "Burst" Background */}
           <div className="relative shrink-0">
             <div className="absolute inset-0 bg-yellow-400 rounded-full scale-110 border-4 border-black animate-pulse"></div>
-            <img 
+            <Image 
               src="https://github.com/tseminghong.png" 
               alt="Profile" 
+              width={128}
+              height={128}
               className="w-32 h-32 rounded-full border-4 border-black relative z-10 bg-white"
             />
             {/* Speech Bubble */}
