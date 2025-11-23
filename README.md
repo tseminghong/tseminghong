@@ -99,9 +99,51 @@
 
 <div align="center">
   <a href="https://tseminghong.github.io/gemini3.0_test">
-    <img src="https://raw.githubusercontent.com/tseminghong/sunset/refs/heads/main/image_2025-11-23_215047848.png" width="80%" style="border-radius: 15px; border: 3px solid #FF0080; box-shadow: 0 10px 30px rgba(255, 0, 128, 0.3);" alt="Portfolio Preview" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Click%20to%20View%20Live%20Demo&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38">
+      <img alt="Portfolio Demo" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Click%20to%20View%20Live%20Demo&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38">
+    </picture>
   </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://tseminghong.github.io/gemini3.0_test">
+          <img src="https://img.icons8.com/fluency/96/000000/book.png" width="80"/>
+          <br/>
+          <b>3D Book Cover</b>
+          <br/>
+          <sub>Interactive opening animation</sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://tseminghong.github.io/gemini3.0_test">
+          <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+          <br/>
+          <b>Tech Stack Cards</b>
+          <br/>
+          <sub>Clickable info panels</sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://tseminghong.github.io/gemini3.0_test">
+          <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
+          <br/>
+          <b>Project Gallery</b>
+          <br/>
+          <sub>Polaroid-style showcase</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <br/>
+  <kbd><a href="https://tseminghong.github.io/gemini3.0_test"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%96%B1%EF%B8%8F+Scroll+to+flip+pages;%E2%9C%A8+GSAP+%2B+Tailwind+%2B+3D+CSS;%F0%9F%9A%80+Click+here+for+full+experience!" alt="Typing SVG" /></a></kbd>
+  <br/><br/>
   <sub>✨ Built with GSAP, Tailwind CSS & Creative Coding ✨</sub>
 </div>
 
