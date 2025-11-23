@@ -1,209 +1,114 @@
-# 👋 Hey, I'm Darren (@tseminghong)!
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1 style="display: inline-block">Hey, I'm @tseminghong!</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 <div align="center">
+  <h3>✨ Welcome to my Digital Playground ✨</h3>
+  <p>
+    <a href="https://tseminghong.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Contact_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Contact" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  🚀 <b>Learning & Transitioning to Hand-Written Code</b> <br />
+  🌐 <b>Building colorful things for Web & Mobile</b> <br />
+  ⚡ <b>Always chasing the next dopamine hit of knowledge</b>
+</div>
+
+<br />
+
+<h2 align="center">🌈 My Vibrant Tech Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-FF0080?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-76FF03?style=for-the-badge&logo=vuedotjs&logoColor=black" alt="Vue" />
+  <img src="https://img.shields.io/badge/Flutter-AA00FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2962FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+<br />
+
+<h2 align="center">📊 High-Score Zone</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tseminghong&show_icons=true&title_color=FF0080&text_color=00E5FF&icon_color=FFEA00&bg_color=121212&border_color=00E5FF&hide_border=false&count_private=true&include_all_commits=true" alt="tseminghong's Stats" height="180"/>
   
-[![Portfolio](https://img.shields.io/badge/🌐_Interactive_Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://tseminghong.github.io/profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tseminghong)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseminghong&layout=compact&title_color=76FF03&text_color=FF0080&bg_color=121212&border_color=76FF03&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
----
+<br />
 
 <div align="center">
-
-### ✨ Welcome to my Digital Playground ✨
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tseminghong&theme=dark&background=121212&border=AA00FF&stroke=FF0080&ring=AA00FF&fire=FF0080&currStreakLabel=00E5FF&currStreakNum=FFEA00&sideLabels=00E5FF&sideNums=FFEA00&dates=FFFFFF" alt="Streak Stats" />
 </div>
 
-```javascript
-const darren = {
-  pronouns: "he/him",
-  location: "UTC +08:00",
-  motto: "Gonna be a salted fish 🐟",
-  status: {
-    learning: "Hand-Written Code & Creative Development",
-    building: "Colorful things for Web & Mobile",
-    mood: "Always chasing the next dopamine hit of knowledge"
-  }
-};
-```
+<br />
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tseminghong&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
+</div>
 
-## 🚀 About Me
+<br />
 
-- 🎨 **Creative Coding Enthusiast** - Building interactive web experiences
-- 🌐 **Web & Mobile Developer** - Focused on modern, responsive design
-- ⚡ **Continuous Learner** - Exploring new technologies and frameworks
-- 💻 **Student & Developer** - Balancing studies with passion projects
+<h2 align="center">📂 Passion Projects</h2>
 
----
-
-## 🛠️ Tech Stack
-
+<div align="center"> 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Creative Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Specialties:**
-- GSAP Animations
-- Canvas Graphics
-- Interactive UI/UX
-
-</td>
-<td width="50%" valign="top">
-
-### ⚛️ Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
-**Focus:**
-- Component Architecture
-- State Management
-- Modern Best Practices
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Data & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Skills:**
-- Task Automation
-- Data Analysis
-- Algorithm Design
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile & Responsive
-![Responsive](https://img.shields.io/badge/Responsive-Design-blue?style=flat)
-![PWA](https://img.shields.io/badge/PWA-Ready-green?style=flat)
-
-**Approach:**
-- Mobile-First Design
-- Cross-Device Testing
-- Touch Optimization
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌅 Sunset</h3>
+      <p><i>Explorations in Creative Coding</i></p>
+      <a href="https://github.com/tseminghong/sunset">
+        <img src="https://img.shields.io/badge/View_Code-FFEA00?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 DSE</h3>
+      <p><i>Data, Studies, & Examinations</i></p>
+      <a href="https://github.com/tseminghong/DSE">
+        <img src="https://img.shields.io/badge/View_Code-00E5FF?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+  </tr>
 </table>
-
----
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌅 Sunset</h3>
-<div align="center">  
-  <a href="https://github.com/tseminghong/sunset">
-    <img src="https://raw.githubusercontent.com/tseminghong/sunset/refs/heads/main/image_2025-11-23_215047848.png" width="400" alt="Sunset"/>
-  </a>
-  <br>
-  <br>
-  <p><strong>Creative Coding Exploration</strong></p>
-  <p>Interactive web experience built with modern JavaScript and animation techniques.</p>
-  <a href="https://github.com/tseminghong/sunset">
-    <img src="https://img.shields.io/badge/View_Project-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </div>
-</td>
-<td width="50%">
-<h3 align="center">📊 DSE</h3>
-<div align="center">  
-  <a href="https://github.com/tseminghong/DSE">
-    <img src="https://raw.githubusercontent.com/tseminghong/DSE/refs/heads/main/image_2025-11-23_214938260.png" width="400" alt="DSE"/>
-  </a>
-  <br>
-  <br>
-  <p><strong>Data, Studies, & Examinations</strong></p>
-  <p>Educational tool for data analysis and study management.</p>
-  <a href="https://github.com/tseminghong/DSE">
-    <img src="https://img.shields.io/badge/View_Project-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-</td>
-</tr>
-</table>
 
----
+<br />
 
-## 📈 GitHub Stats
+<br />
+
+<h2 align="center">🎨 Interactive 3D Portfolio</h2>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tseminghong&theme=tokyonight&hide_border=true&background=000000)](https://github.com/tseminghong)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tseminghong&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000)](https://github.com/tseminghong)
-
-</div>
-
----
-
-## 🎯 Current Status
-
-```bash
-> npm install knowledge
-> git commit -m "Learning new things every day"
-> git push origin main
-> sleep(0) # Just kidding, need that coffee ☕
-```
-
-**Coding Dopamine Level:** ████████████████████░ 98%  
-**Coffee Consumed:** ∞ Liters  
-**Projects in Progress:** Always something cooking 🔥
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tseminghong)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=safari&logoColor=white)](https://profile.hpccss.site)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tseminghong&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <br><br>
-  <sub>Built with ❤️ by @tseminghong</sub>
-  <br>
-  <sub>© 2025 | Don't forget to ⭐️ my repos!</sub>
-  <br><br>
-  
-  ### 🌐 Interactive Portfolio
-  
   <a href="https://tseminghong.github.io/gemini3.0_test">
-    <img src="https://img.shields.io/badge/🎨_3D_Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" />
+    <img src="https://img.shields.io/badge/🌟_View_Live_Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
   </a>
-  
-  <p><i>Experience my interactive 3D book portfolio with GSAP animations!</i></p>
+  <p><i>Experience my interactive 3D book portfolio with scroll-triggered animations!</i></p>
+</div>
+
+<div align="center">
+  <a href="https://tseminghong.github.io/gemini3.0_test">
+    <img src="https://raw.githubusercontent.com/tseminghong/sunset/refs/heads/main/image_2025-11-23_215047848.png" width="80%" style="border-radius: 15px; border: 3px solid #FF0080; box-shadow: 0 10px 30px rgba(255, 0, 128, 0.3);" alt="Portfolio Preview" />
+  </a>
+  <br/>
+  <sub>✨ Built with GSAP, Tailwind CSS & Creative Coding ✨</sub>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #FF0080;" />
+  <br/><br/>
+  <p><i>Thanks for dropping by! Don't forget to hit that ⭐️ button!</i></p>
 </div>
